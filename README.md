@@ -1,2 +1,2 @@
 # Taxiapp
-Laravel - Vuejs - Github
+Laravel - Vuejs 
